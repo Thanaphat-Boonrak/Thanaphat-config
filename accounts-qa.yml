@@ -1,8 +1,8 @@
 build:
-  version: "2.0"
+  version: "1232321323.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs "
+  message: "Welcome to EazyBank asdsadasdasda related QA APIs "
   contactDetails:
     name: "Thanaphat Boorak"
     email: "smitha@eazybank.com"
