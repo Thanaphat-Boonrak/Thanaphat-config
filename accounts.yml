@@ -1,6 +1,9 @@
 build:
   version: "3.0"
 
+build:
+  version: 1.0.0
+
 accounts:
   message: "Welcome to api Thanaphat Microservice "
   contactDetails:
